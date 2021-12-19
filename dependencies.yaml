@@ -46,7 +46,7 @@ repositories:
   dbow2_catkin:
     type: git
     url: https://github.com/uzh-rpg/dbow2_catkin.git
-    version: master
+    version: svo
   rpg_trajectory_evaluation:
     type: git
     url: https://github.com/uzh-rpg/rpg_trajectory_evaluation.git
